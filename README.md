@@ -1,6 +1,4 @@
 # Hit-the-Ball
-CS 223 Project
-
 Ömer Mesud TOKER
 
 Burak Mandıra
